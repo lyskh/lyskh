@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js, Typescript, Progressive Web Apps and SaaS Development**
 
-- 📫 How to reach me **allysa.prof@gmail.com**
+- 📫 How to reach me **allysak.pro@gmail.com**
 
 - ⚡ Fun fact **I am a trying hard.**
 
