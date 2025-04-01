@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Allysa Khae Repeso</h1>
+<h1 align="center">Hi 👋, I'm Allysa</h1>
 <h3 align="center">I'm a passionate student eager to learn more about front-end development, web development, app development, and cybersecurity.</h3>
 
 - 🌱 I’m currently learning **Next.js, React.js, Typescript, Progressive Web Apps and SaaS Development**
