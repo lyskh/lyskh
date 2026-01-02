@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Allysa</h1>
-<h3 align="center">A passionate student exploring front-end, web, app development, and cybersecurity.</h3>
+<h3 align="center">A student and aspiring developer exploring front-end, web, app development, and cybersecurity.</h3>
 
 ---
 
 ### 🌱 Currently Learning
 **Next.js, React.js, TypeScript, Progressive Web Apps, SaaS Development**
+
+### 💻 Development Experience
+- Building web projects and landing pages using **React.js, Next.js, WordPress & Elementor**.  
+- Creating **Progressive Web Apps** and exploring **SaaS development**.  
+- Developing and documenting a **custom OCR model** for a capstone project.  
+- Practicing clean code, modular design, and responsive interfaces.  
 
 ### 📫 Contact Me
 **Email:** [allysakhaer@gmail.com](mailto:allysakhaer@gmail.com)
@@ -14,7 +20,7 @@ I give my best effort in everything I do—always a “trying hard.”
 
 ---
 
-### 💻 Languages & Tools
+### 🛠 Languages & Tools
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -38,11 +44,4 @@ I give my best effort in everything I do—always a “trying hard.”
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lyskh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
